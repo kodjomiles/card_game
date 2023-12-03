@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# IDLE IGNORES
+.idea/.gitignore
+.idea/aws.xml
+.idea/cards.iml
+.idea/modules.xml
+.idea/vcs.xml
+
